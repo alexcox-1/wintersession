@@ -1,2 +1,2 @@
 # wintersession
-Git Wintersession Workshop
+Git Wintersession Workshop - Spring 2022
